@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.3.4",
+    "express": "4.17.3",
     "steam": ">= 0.6.0",
     "dota2": "https://github.com/RJacksonm1/node-dota2/tarball/master",
     "jade": "*",
